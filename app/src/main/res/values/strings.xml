@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finanzas Overlay</string>
+    <string name="overlay_service_channel_name">Servicio Botón Flotante Finanzas</string>
+    <string name="overlay_service_channel_desc">Mantiene activo el botón flotante para captura rápida de movimientos</string>
+    <string name="overlay_service_notification_title">Finanzas Express Activo</string>
+    <string name="overlay_service_notification_text">Toca el botón flotante en pantalla para registrar un movimiento</string>
+</resources>
